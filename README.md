@@ -12,7 +12,7 @@ This is Sanjay, an AI and data enthusiast. You will find me updating my new and 
 
 Connect with me on:
 
-<a href=”https://www.linkedin.com/in/sanjaydilip/"><img align=”left” src=”https://raw.githubusercontent.com/sanjay-dilip/sanjay-dilip/tree/main/images/linkedin.svg" alt=”Sanjay Dilip | LinkedIn” width=”21px”/></a>
+<a href="https://linkedin.com/in/sanjaydilip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjaydilip" height="30" width="40" /></a>
 
 [![Sanjay’s GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjay-dilip)](https://github.com/sanjay-dilip)
 

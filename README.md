@@ -10,5 +10,4 @@ This is Sanjay, an AI and data enthusiast. You will find me updating my new and 
 - ⚡ Fun fact: Hit me up with anything to do with movies, and I will respond when I can
 - Know more about my experiences by clicking on this <a href="https://drive.google.com/file/d/1C9RrGq9Uix_fPXdNVqz5W6CsNaJvPDI5/view?usp=drive_link">link</a>
 
-Connect with me on:
-<a href=”https://www.linkedin.com/in/sanjaydilip/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+

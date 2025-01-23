@@ -10,4 +10,6 @@ This is Sanjay, an AI and data enthusiast. You will find me updating my new and 
 - ⚡ Fun fact: Hit me up with anything to do with movies, and I will respond when I can
 - Know more about my experiences by clicking on this <a href="https://drive.google.com/file/d/1C9RrGq9Uix_fPXdNVqz5W6CsNaJvPDI5/view?usp=drive_link">link</a>
 
+Connect with me on:
 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)

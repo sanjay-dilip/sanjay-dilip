@@ -14,6 +14,8 @@ Connect with me on:
 
 <a href="https://linkedin.com/in/sanjaydilip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjaydilip" height="30" width="40" /></a>
 
+<a href="https://instagram.com/_sanjaydilip_"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Sanjay Dilip | Instagram" width="21px"/></a>
+
 [![Sanjay’s GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjay-dilip)](https://github.com/sanjay-dilip)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-dilip&layout=compact)](https://github.com/sanjay-dilip)

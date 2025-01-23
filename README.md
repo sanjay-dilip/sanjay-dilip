@@ -14,3 +14,5 @@ Connect with me on:
 
 
 [![Sanjay’s GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjay-dilip)](https://github.com/sanjay-dilip)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-dilip&layout=compact)](https://github.com/sanjay-dilip)

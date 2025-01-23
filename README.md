@@ -12,4 +12,4 @@ This is Sanjay, an AI and data enthusiast. You will find me updating my new and 
 
 Connect with me on:
 
-![https://www.linkedin.com/in/sanjaydilip/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href=”https://www.linkedin.com/in/sanjaydilip/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>

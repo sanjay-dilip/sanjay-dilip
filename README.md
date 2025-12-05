@@ -1,14 +1,44 @@
-## Hello there 👋
+# Hi, I'm Sanjay.
 
-This is Sanjay, an AI and data enthusiast. You will find me updating my new and ongoing projects in the coming days
+I work on data analysis and machine learning, and I like building small systems that go from exploration to deployment. I enjoy working with NLP and media datasets, but I also handle the full stack of analytics tasks, from Excel-based analysis to Python pipelines and ML modelling.
 
-- 🔭 I’m currently working on **Data Analysis** and **Machine Learning**
-- 🌱 I’m currently learning **Deep Learning**
-- 🤔 I’m looking for help with **learning more and working with LLMs**
-- 💬 Ask me about **Python**, **Data Analysis** and **Excel Analysis**
-- 📫 You can reach me by sending an email to <dilipsanjay8@gmail.com>
-- ⚡ Fun fact: Hit me up with anything to do with movies, and I will respond when I can
-- Know more about my experiences by clicking on this <a href="https://drive.google.com/file/d/1C9RrGq9Uix_fPXdNVqz5W6CsNaJvPDI5/view?usp=drive_link">link</a>
+## What I work on
+• Data analysis with Python, SQL, and Excel  
+• Machine learning workflows and experiment design  
+• NLP projects (sentiment models, weak labels, evaluation)  
+• Deep learning with PyTorch  
+• Building APIs and simple ML services with FastAPI  
+• EDA and feature engineering for real datasets  
+
+## Featured Projects
+Here are the projects that best reflect my work:
+
+### • Letterboxd Sentiment API  
+End-to-end sentiment system for Letterboxd reviews, including data cleaning, weak labels, model training, and a FastAPI service.  
+[View repository](https://github.com/sanjay-dilip/letterboxd-sentiment-api)
+
+### • Data Science Projects  
+A collection of small analytics and ML projects that cover EDA, modelling, and workflow structure.  
+[View repository](https://github.com/sanjay-dilip/Data-Science-Projects)
+
+### • Deep Learning Projects  
+A set of PyTorch models exploring CNNs, RNNs, and training loops.  
+[View repository](https://github.com/sanjay-dilip/Deep-Learning-Projects)
+
+## Current Focus
+• Cleaning and improving my ML repos with better structure and docs  
+• Learning more about LLMs and evaluation methods  
+• Adding automation (GitHub Actions) and small tests to my repos  
+• Improving how I build APIs and share ML models  
+
+## Tools I use
+Python, SQL, Excel, Pandas, NumPy, Scikit-learn, PyTorch, FastAPI, Jupyter, Git, GitHub Actions, Tableau, MySQL
+
+## Contact
+• Email: <dilipsanjay8@gmail.com>  
+• LinkedIn: [Sanjay Dilip](https://linkedin.com/in/sanjaydilip)
+
+Outside of work, I like exploring movie datasets and building analytics around media and user behavior.
 
 ### 🤝 Connect with me:
 

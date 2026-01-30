@@ -17,6 +17,10 @@ Here are the projects that best reflect my work:
 End-to-end sentiment system for Letterboxd reviews, including data cleaning, weak labels, model training, and a FastAPI service.  
 [View repository](https://github.com/sanjay-dilip/letterboxd-sentiment-api)
 
+### • Sim2Real User Engagement & Churn Analysis
+A sim2real study comparing engagement and churn modeling across simulated anime viewing data and real Steam gameplay data, highlighting how data constraints shape modeling choices and model behavior.
+[View repository](https://github.com/sanjay-dilip/sim2real-engagement)
+
 ### • Data Science Projects  
 A collection of small analytics and ML projects that cover EDA, modelling, and workflow structure.  
 [View repository](https://github.com/sanjay-dilip/Data-Science-Projects)

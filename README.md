@@ -1,61 +1,35 @@
 # Hi, I'm Sanjay.
 
-I work on data analysis and machine learning, and I like building small systems that go from exploration to deployment. I enjoy working with NLP and media datasets, but I also handle the full stack of analytics tasks, from Excel-based analysis to Python pipelines and ML modelling.
+I build end-to-end analytics systems - clean data in, dashboards and decisions out. Most of my work sits at the intersection of BI (Power BI), analytics engineering (SQL + Python), and applied ML when it adds real value.
+
+**Portfolio (start here)**
+If you only click two things: start with **Supply Chain Analytics** (Azure + Power BI) and **MovieLens** (deployed Streamlit).
+- Supply Chain Disruption Analytics - Azure to Power BI pipeline, KPI monitoring, stats + delay risk modeling ([Repo](https://www.github.com/sanjay-dilip/supply-chain-disruption-analytics))
+- MovieLens Recommender - ALS + hybrid ranking, deployed Streamlit app ([Repo]([PASTE_LINK](https://github.com/sanjay-dilip/Data-Science-Projects/tree/main/movielens-recommender)))
+- Letterboxd Sentiment API - weak labels + NLP model, FastAPI service ([Repo](https://www.github.com/sanjay-dilip/letterboxd-sentiment-api))
+- Sim2Real Engagement - sim vs real churn signals, Streamlit comparison dashboard ([Repo](https://github.com/sanjay-dilip/sim2real-engagement))
 
 ## What I work on
+- DA/BI: Power BI (DAX), Tableau, KPI reporting, dashboard storytelling
+- Analytics: SQL, Python (pandas), experimentation, forecasting
+- Data Engineering: ETL/ELT, curated layers (Parquet), data modeling, quality checks
+- ML (supporting): NLP, recommenders/ranking, model evaluation, deployment (FastAPI)
 
-- Analytics: SQL, Python (pandas), Excel, KPI definitions, forecasting
-- BI: Power BI (DAX), Tableau, dashboard storytelling, stakeholder reporting
-- Data Engineering: data cleaning, ETL, data modeling, quality checks
-- ML : NLP, model evaluation, deployment (FastAPI)
-
-## Featured Projects
-Here are the projects that best reflect my work:
-
-### Supply Chain Disruption Analytics
-End-to-end Azure-to-Power BI pipeline that curates order and shipping data, tracks late-delivery KPIs, and uses statistical tests plus a delay-risk model to explain and predict disruptions
-[View repository](https://www.github.com/sanjay-dilip/supply-chain-disruption-analytics)
-
-### Letterboxd Sentiment API  
-End-to-end sentiment system for Letterboxd reviews, including data cleaning, weak labels, model training, and a FastAPI service.  
-[View repository](https://github.com/sanjay-dilip/letterboxd-sentiment-api)
-
-### • Sim2Real User Engagement & Churn Analysis
-A sim2real study comparing engagement and churn modeling across simulated anime viewing data and real Steam gameplay data, highlighting how data constraints shape modeling choices and model behavior.
-
-[View repository](https://github.com/sanjay-dilip/sim2real-engagement)
-
-### • Data Science Projects  
-A collection of small analytics and ML projects that cover EDA, modelling, and workflow structure.  
-[View repository](https://github.com/sanjay-dilip/Data-Science-Projects)
-
-### • Deep Learning Projects  
-A set of PyTorch models exploring CNNs, RNNs, and training loops.  
-[View repository](https://github.com/sanjay-dilip/Deep-Learning-Projects)
+## Highlights
+- I like projects where metrics tie to real decisions (late delivery risk, churn risk, ranking quality).
+- I care about reproducibility: clear READMEs, runnable steps, and basic checks.
 
 ## Current Focus
-• Cleaning and improving my ML repos with better structure and docs  
-• Learning more about LLMs and evaluation methods  
-• Adding automation (GitHub Actions) and small tests to my repos  
-• Improving how I build APIs and share ML models  
+- Shipping more BI artifacts: dashboard screenshots, KPI definitions, and DAX notes
+- Strengthening data engineering habits: curated layers, data checks, and clean project structure
+- Improving project READMEs: clearer results, visuals, and 3-step run instructions
+- Adding lightweight automation: GitHub Actions for linting/tests and sanity checks
 
 ## Tools I use
-Python, SQL, Excel, Pandas, NumPy, Scikit-learn, PyTorch, FastAPI, Jupyter, Git, GitHub Actions, Tableau, MySQL
+SQL, Power BI, Excel, Python (pandas, scikit-learn), Streamlit, FastAPI, Snowflake, Azure (ADF/Blob), GitHub Actions
 
 ## Contact
-• Email: <dilipsanjay8@gmail.com>  
-• LinkedIn: [Sanjay Dilip](https://linkedin.com/in/sanjaydilip)
+- Email: [sanjay.dilip3012@gmail.com](mailto:sanjay.dilip3012@gmail.com)
+- LinkedIn: [Sanjay Dilip](https://www/linkedin.com/in/sanjaydilip)
 
-Outside of work, I like exploring movie datasets and building analytics around media and user behavior.
-
-### 🤝 Connect with me:
-
-<p align="left">
-<a href="https://linkedin.com/in/sanjaydilip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjaydilip" height="30" width="40" /></a>
-<a href="https://instagram.com/_sanjaydilip_" target="blank"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="_sanjaydilip_" height="30" width="40" /></a>
-</p>
-
-## 💼 Languages and Tools
-</a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-
+Outside of work, I like exploring media datasets and building analytics around user behavior.

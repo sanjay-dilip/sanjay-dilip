@@ -3,17 +3,20 @@
 I work on data analysis and machine learning, and I like building small systems that go from exploration to deployment. I enjoy working with NLP and media datasets, but I also handle the full stack of analytics tasks, from Excel-based analysis to Python pipelines and ML modelling.
 
 ## What I work on
-• Data analysis with Python, SQL, and Excel  
-• Machine learning workflows and experiment design  
-• NLP projects (sentiment models, weak labels, evaluation)  
-• Deep learning with PyTorch  
-• Building APIs and simple ML services with FastAPI  
-• EDA and feature engineering for real datasets  
+
+- Analytics: SQL, Python (pandas), Excel, KPI definitions, forecasting
+- BI: Power BI (DAX), Tableau, dashboard storytelling, stakeholder reporting
+- Data Engineering: data cleaning, ETL, data modeling, quality checks
+- ML : NLP, model evaluation, deployment (FastAPI)
 
 ## Featured Projects
 Here are the projects that best reflect my work:
 
-### • Letterboxd Sentiment API  
+### Supply Chain Disruption Analytics
+End-to-end Azure-to-Power BI pipeline that curates order and shipping data, tracks late-delivery KPIs, and uses statistical tests plus a delay-risk model to explain and predict disruptions
+[View repository](https://www.github.com/sanjay-dilip/supply-chain-disruption-analytics)
+
+### Letterboxd Sentiment API  
 End-to-end sentiment system for Letterboxd reviews, including data cleaning, weak labels, model training, and a FastAPI service.  
 [View repository](https://github.com/sanjay-dilip/letterboxd-sentiment-api)
 

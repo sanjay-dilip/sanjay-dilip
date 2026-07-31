@@ -2,7 +2,7 @@
 
 I build end-to-end analytics systems - clean data in, dashboards and decisions out. Most of my work sits at the intersection of BI (Power BI), analytics engineering (SQL + Python), and applied ML when it adds real value.
 
-If you only click two things: start with **Supply Chain Analytics** (Azure + Power BI) and **MovieLens** (deployed Streamlit).
+If you only click two things: start with **Levi's RAG** (deployed AI due diligence copilot) and **NBA Win Probability Engine** (deployed Streamlit).
 
 - Supply Chain Disruption Analytics - Azure to Power BI pipeline, KPI monitoring, stats + delay risk modeling ([Repo](https://www.github.com/sanjay-dilip/supply-chain-disruption-analytics))
 - MovieLens Recommender - ALS + hybrid ranking, deployed Streamlit app ([Repo](https://github.com/sanjay-dilip/Data-Science-Projects/tree/main/movielens-recommender))

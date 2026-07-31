@@ -5,7 +5,7 @@ I build end-to-end analytics systems - clean data in, dashboards and decisions o
 If you only click two things: start with **Levi's RAG** (deployed AI due diligence copilot) and **NBA Win Probability Engine** (deployed Streamlit).
 
 - Supply Chain Disruption Analytics - Azure to Power BI pipeline, KPI monitoring, stats + delay risk modeling ([Repo](https://www.github.com/sanjay-dilip/supply-chain-disruption-analytics))
-- MovieLens Recommender - ALS + hybrid ranking, deployed Streamlit app ([Repo](https://github.com/sanjay-dilip/Data-Science-Projects/tree/main/movielens-recommender))
+- MovieLens Recommender - ALS + hybrid ranking, deployed Streamlit app ([Repo](https://github.com/sanjay-dilip/movielens-recommender-system))
 - Letterboxd Sentiment API - weak labels + NLP model, FastAPI service ([Repo](https://www.github.com/sanjay-dilip/letterboxd-sentiment-api))
 - Sim2Real Engagement - sim vs real churn signals, Streamlit comparison dashboard ([Repo](https://github.com/sanjay-dilip/sim2real-engagement))
 
@@ -30,6 +30,6 @@ SQL, Power BI, Excel, Python (pandas, scikit-learn), Streamlit, FastAPI, Snowfla
 
 ## Contact
 - Email: [sanjay.dilip3012@gmail.com](mailto:sanjay.dilip3012@gmail.com)
-- LinkedIn: [Sanjay Dilip](https://www/linkedin.com/in/sanjaydilip)
+- LinkedIn: [Sanjay Dilip](https://www.linkedin.com/in/sanjaydilip)
 
 Outside of work, I like exploring media datasets and building analytics around user behavior.

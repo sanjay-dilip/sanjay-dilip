@@ -13,23 +13,23 @@ If you only click two things: start with **Levi's RAG** (deployed AI due diligen
 - DA/BI: Power BI (DAX), Tableau, KPI reporting, dashboard storytelling
 - Analytics: SQL, Python (pandas), experimentation, forecasting
 - Data Engineering: ETL/ELT, curated layers (Parquet), data modeling, quality checks
-- ML (supporting): NLP, recommenders/ranking, model evaluation, deployment (FastAPI)
+- ML/AI: NLP, recommenders/ranking, RAG pipelines, LLM agents, model evaluation, deployment (FastAPI, Streamlit)
 
 ## Highlights
 - I like projects where metrics tie to real decisions (late delivery risk, churn risk, ranking quality).
 - I care about reproducibility: clear READMEs, runnable steps, and basic checks.
 
 ## Current Focus
-- Shipping more BI artifacts: dashboard screenshots, KPI definitions, and DAX notes
+- Building retrieval-grounded and agentic AI systems with evaluation checks, not just demos (Levi's RAG, InsightPilot)
+- Shipping full ML apps end-to-end: model, evaluation, and a live deployed dashboard (NBA Win Probability Engine)
 - Strengthening data engineering habits: curated layers, data checks, and clean project structure
-- Improving project READMEs: clearer results, visuals, and 3-step run instructions
-- Adding lightweight automation: GitHub Actions for linting/tests and sanity checks
+- Keeping project READMEs and CI (GitHub Actions) current as each project ships
 
 ## Tools I use
-SQL, Power BI, Excel, Python (pandas, scikit-learn), Streamlit, FastAPI, Snowflake, Azure (ADF/Blob), GitHub Actions
+SQL, Power BI, Excel, Python (pandas, scikit-learn), Streamlit, FastAPI, LLM APIs (OpenAI, Gemini), RAG/vector search, Snowflake, Azure (ADF/Blob), GitHub Actions
 
 ## Contact
 - Email: [sanjay.dilip3012@gmail.com](mailto:sanjay.dilip3012@gmail.com)
 - LinkedIn: [Sanjay Dilip](https://www.linkedin.com/in/sanjaydilip)
 
-Outside of work, I like exploring media datasets and building analytics around user behavior.
+Outside of work, I like digging into sports, film, and world-event datasets, and increasingly building small AI agents to help make sense of them.

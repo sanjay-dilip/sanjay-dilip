@@ -28,6 +28,9 @@ If you only click two things: start with **Levi's RAG** (deployed AI due diligen
 ## Tools I use
 SQL, Power BI, Excel, Python (pandas, scikit-learn), Streamlit, FastAPI, LLM APIs (OpenAI, Gemini), RAG/vector search, Snowflake, Azure (ADF/Blob), GitHub Actions
 
+## Ongoing Projects
+- WC2026 Format Evaluation - assessing whether FIFA's 48-team World Cup expansion changes global representation, competitive balance, and scheduling fairness versus prior formats. Work in progress ([Repo](https://github.com/sanjay-dilip/wc2026-format-eval))
+
 ## Contact
 - Email: [sanjay.dilip3012@gmail.com](mailto:sanjay.dilip3012@gmail.com)
 - LinkedIn: [Sanjay Dilip](https://www.linkedin.com/in/sanjaydilip)

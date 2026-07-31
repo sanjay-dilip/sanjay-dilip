@@ -4,10 +4,10 @@ I build end-to-end analytics systems - clean data in, dashboards and decisions o
 
 If you only click two things: start with **Levi's RAG** (deployed AI due diligence copilot) and **NBA Win Probability Engine** (deployed Streamlit).
 
-- Supply Chain Disruption Analytics - Azure to Power BI pipeline, KPI monitoring, stats + delay risk modeling ([Repo](https://www.github.com/sanjay-dilip/supply-chain-disruption-analytics))
-- MovieLens Recommender - ALS + hybrid ranking, deployed Streamlit app ([Repo](https://github.com/sanjay-dilip/movielens-recommender-system))
-- Letterboxd Sentiment API - weak labels + NLP model, FastAPI service ([Repo](https://www.github.com/sanjay-dilip/letterboxd-sentiment-api))
+- Levi's RAG - AI due diligence copilot, retrieval-grounded answers over SEC filings, deployed FastAPI + Next.js ([Repo](https://github.com/sanjay-dilip/levis-rag))
+- NBA Win Probability Engine - pre-game and live win-probability model, deployed Streamlit dashboard ([Repo](https://github.com/sanjay-dilip/nba-win-probability-engine))
 - Sim2Real Engagement - sim vs real churn signals, Streamlit comparison dashboard ([Repo](https://github.com/sanjay-dilip/sim2real-engagement))
+- MovieLens Recommender - ALS + hybrid ranking, deployed Streamlit app ([Repo](https://github.com/sanjay-dilip/movielens-recommender-system))
 
 ## What I work on
 - DA/BI: Power BI (DAX), Tableau, KPI reporting, dashboard storytelling

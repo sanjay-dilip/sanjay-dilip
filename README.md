@@ -7,7 +7,7 @@ If you only click two things: start with **Levi's RAG** (deployed AI due diligen
 - Levi's RAG - AI due diligence copilot, retrieval-grounded answers over SEC filings, deployed FastAPI + Next.js ([Repo](https://github.com/sanjay-dilip/levis-rag))
 - NBA Win Probability Engine - pre-game and live win-probability model, deployed Streamlit dashboard ([Repo](https://github.com/sanjay-dilip/nba-win-probability-engine))
 - Sim2Real Engagement - sim vs real churn signals, Streamlit comparison dashboard ([Repo](https://github.com/sanjay-dilip/sim2real-engagement))
-- MovieLens Recommender - ALS + hybrid ranking, deployed Streamlit app ([Repo](https://github.com/sanjay-dilip/movielens-recommender-system))
+- WC2026 Format Evaluation - statistical evaluation of FIFA's 48-team World Cup expansion on competitive balance and fairness, Snowflake pipeline + Power BI dashboard ([Repo](https://github.com/sanjay-dilip/wc2026-format-eval))
 
 ## What I work on
 - DA/BI: Power BI (DAX), Tableau, KPI reporting, dashboard storytelling
@@ -29,7 +29,7 @@ If you only click two things: start with **Levi's RAG** (deployed AI due diligen
 SQL, Power BI, Excel, Python (pandas, scikit-learn), Streamlit, FastAPI, LLM APIs (OpenAI, Gemini), RAG/vector search, Snowflake, Azure (ADF/Blob), GitHub Actions
 
 ## Ongoing Projects
-- WC2026 Format Evaluation - assessing whether FIFA's 48-team World Cup expansion changes global representation, competitive balance, and scheduling fairness versus prior formats. Work in progress ([Repo](https://github.com/sanjay-dilip/wc2026-format-eval))
+- Pokémon TCG AI Battle Challenge (Kaggle) — Built an explainable rule-based agent for a card-game simulation environment with strict inference constraints (no network, 10-min time budget). Repo private per competition rules through judging (~Oct 2026); public afterward.
 
 ## Contact
 - Email: [sanjay.dilip3012@gmail.com](mailto:sanjay.dilip3012@gmail.com)

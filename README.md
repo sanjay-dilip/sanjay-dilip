@@ -2,7 +2,7 @@
 
 I build end-to-end analytics and AI systems - clean data in, dashboards and grounded decisions out. Most of my work sits at the intersection of BI (Power BI), analytics engineering (SQL + Python), and applied ML/LLM systems when they add real value.
 
-If you only click two things: start with **Levi's RAG** (deployed AI due diligence copilot) and **NBA Win Probability Engine** (deployed Streamlit).
+Top Projects:
 
 - Levi's RAG - AI due diligence copilot, retrieval-grounded answers over SEC filings, deployed FastAPI + Next.js ([Repo](https://github.com/sanjay-dilip/levis-rag))
 - NBA Win Probability Engine - pre-game and live win-probability model, deployed Streamlit dashboard ([Repo](https://github.com/sanjay-dilip/nba-win-probability-engine))
